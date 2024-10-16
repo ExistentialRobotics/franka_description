@@ -1,4 +1,4 @@
-# Franka Description
+# Franka Description ERL
 
 ## Overview
 
